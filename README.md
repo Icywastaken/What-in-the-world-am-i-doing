@@ -1,2 +1,2 @@
 # What-in-the-world-am-i-doing
-AAAAAAAAAAAAAAA
+How the fuck do i open the html page
